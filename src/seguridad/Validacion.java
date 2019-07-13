@@ -6,7 +6,7 @@ public class Validacion {
         msg = "esta correcto el usuario "
                 + "seleccionado, no olvide cambiar "
                 + "su contrasena en menos "
-                + "de 90 dias";;
+                + "de 30 dias";
         return msg;
     }
 }

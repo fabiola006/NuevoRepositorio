@@ -4,6 +4,7 @@ public class Validacion {
     public String validaUsuario(String usuario){
         String msg = "";
         msg = "esta correcto el usuario "
+                + "Jhampierra"
                 + "este es un mensaje "
                 + "de prueba previo a  "
                 + "cambiar a una mejor  "

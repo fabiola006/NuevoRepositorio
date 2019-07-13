@@ -9,6 +9,11 @@ public class Validacion {
                 + "cambiar a una mejor  "
                 + "contrasena en menos "
                 + "de 90 dias";
+                + "Jhampierr estuvo aqui"
+                + "Pray for Alonso"
+                + "seleccionado, no olvide cambiar "
+                + "su contrasena en menos "
+                + "de 90 dias";;
         return msg;
     }
 }

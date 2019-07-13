@@ -4,7 +4,7 @@ public class Validacion {
     public String validaUsuario(String usuario){
         String msg = "";
         msg = "esta correcto el usuario "
-                + "Jhampierr estuvo aqui"
+                + "Jhampierra"
                 + "Pray for Alonso"
                 + "seleccionado, no olvide cambiar "
                 + "su contrasena en menos "
